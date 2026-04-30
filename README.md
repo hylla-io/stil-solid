@@ -1,10 +1,10 @@
 # stil-solid
 
-Astro-first components with Solid for interactive islands. Apache 2.0. Consumed by Hylla websites, Tillsyn Electron, Hylla Electron, and the Hylla hosted web surfaces. Formerly Sjal.
+Astro-first components with Solid for interactive islands. Apache 2.0. Consumed by Hylla websites, Tillsyn Electron, Hylla Electron, and the Hylla hosted web surfaces.
 
 ## Status
 
-Skeleton. To be refactored from `sjal/` once `stil`'s visual language and binding vocabulary are settled.
+Skeleton. To be scaffolded fresh from the same Astro 5 + Solid setup as `stil/main` once `stil`'s visual language and binding vocabulary are settled.
 
 ## Scope
 
