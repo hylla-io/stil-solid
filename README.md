@@ -1,6 +1,6 @@
 # stil-solid
 
-Astro-first components with Solid for interactive islands. Apache 2.0. Consumed by Hylla websites, Tillsyn Electron, Hylla Electron, and the Hylla hosted web surfaces.
+Astro-first components with Solid for interactive islands. Apache 2.0. Consumed by Hylla websites, Tillsyn + Hylla Wails desktops, and the Hylla hosted web surfaces.
 
 ## Status
 
